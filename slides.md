@@ -23,10 +23,14 @@ drawings:
 transition: slide-left
 # use UnoCSS
 css: unocss
+title: LoRA
+download: true
 ---
 
 # [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9)
-  
+
+<div class="text-lg">
+
 [Edward J Hu](https://openreview.net/profile?id=~Edward_J_Hu1),
 [yelong shen](https://openreview.net/profile?id=~yelong_shen1),
 [Phillip Wallis](https://openreview.net/profile?id=~Phillip_Wallis1),
@@ -35,8 +39,18 @@ css: unocss
 [Shean Wang](https://openreview.net/profile?id=~Shean_Wang1),
 [Lu Wang](https://openreview.net/profile?email=luw%40microsoft.com),
 [Weizhu Chen](https://openreview.net/profile?id=~Weizhu_Chen1)  
-  
-Microsoft, ICLR 2022
+</div>
+
+#### Microsoft
+### ICLR 2022
+
+
+<div class="abs-br m-6 flex gap-2">
+  <a href="https://github.com/toonnyy8-notes/LoRA/" target="_blank" alt="GitHub"
+    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
+    <carbon-logo-github />
+  </a>
+</div>
 
 ---
 
